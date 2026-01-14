@@ -57,5 +57,5 @@ This implementation is explicitly a learning/demo example and is NOT secure for 
 - Add unit tests for `passwordcheck` and login/signup flows.
 
 ## Screenshots
-![Sign Up window](signup.png)
-![Login window](login.png)
+![Sign Up window](SignUp.png)
+![Login window](Login.png)
